@@ -5,10 +5,19 @@
  */
 package main;
 
-/**
- *
- * @author SergioMarquez
- */
+import views.ViewMenor;
+import models.ModelMenor;
+import controllers.ControllerMenor;
+
+
 public class Main {
+    
+    public static void main(String alb[]){
+        
+        ModelMenor model_menor = new ModelMenor();
+        ViewMenor view_menor = new ViewMenor();
+        ControllerMenor controller_menor = new ControllerMenor(model_menor,view_menor);
+        
+    }
     
 }

@@ -158,14 +158,14 @@ public class ViewMenor extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton jbtn_menor;
+    public javax.swing.JButton jbtn_menor;
     private javax.swing.JLabel jl_men;
     private javax.swing.JLabel jl_num1;
     private javax.swing.JLabel jl_num2;
     private javax.swing.JLabel jl_num3;
-    private javax.swing.JTextField jtf_men;
-    private javax.swing.JTextField jtf_num1;
-    private javax.swing.JTextField jtf_num2;
-    private javax.swing.JTextField jtf_num3;
+    public javax.swing.JTextField jtf_men;
+    public javax.swing.JTextField jtf_num1;
+    public javax.swing.JTextField jtf_num2;
+    public javax.swing.JTextField jtf_num3;
     // End of variables declaration//GEN-END:variables
 }

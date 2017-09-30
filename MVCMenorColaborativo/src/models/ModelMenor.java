@@ -13,7 +13,7 @@ public class ModelMenor {
     private int n1 = 1;
     private int n2 = 2;
     private int n3 = 3;
-    private int m = 3;
+    private int m = 1;
 
     public int getN1() {
         return n1;
